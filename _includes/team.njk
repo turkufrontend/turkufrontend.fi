@@ -1,0 +1,23 @@
+<section>
+  <h2>Team</h2>
+  <div id="team">
+    {% for person in team %}
+    <div class="profile">
+      {{ person.name | nameToImage | safe }}
+      <div class="profile--inner">
+        <p class="profile--name">
+          {{ person.name }}
+        </p>
+        <p class="profile--title">
+          {{ person.title }}
+        </p>
+        <div class="profile--links">
+          {% for link in person.links %}
+          {{ link | linkToHTML | safe }}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

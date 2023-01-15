@@ -1,0 +1,899 @@
+[
+  {
+    "date": "2016-01-27",
+    "host": "Poutapilvi",
+    "talks": [
+      {
+        "title": "ES6 generators",
+        "speaker": "Jussi Nieminen",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Lessons learned in building awesome developer communities",
+        "speaker": "Oleg Podsechin",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2016-02-24",
+    "host": "Anders",
+    "talks": [
+      {
+        "title": "Polymer",
+        "speaker": "Sami Suo-Heikki",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Vaadin Elements",
+        "speaker": "Jouni Koivuviita",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2016-03-23",
+    "host": "Sofokus",
+    "talks": [
+      {
+        "title": "React + Redux = Understandable architecture",
+        "speaker": "Niklas Närhinen",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Vue.js - Reactive Components for Modern Web Interfaces ",
+        "speaker": "Pyry Liukas",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2016-04-27",
+    "host": "Vaadin",
+    "talks": [
+      {
+        "title": "How to Think Like a Designer (without having to be one)",
+        "speaker": "Marlon Richert",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Communication between developer and designer",
+        "speaker": "Eero Mäkelä",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2016-05-18",
+    "host": "ATR Soft",
+    "talks": [
+      {
+        "title": "How to make Javascript code less fragile?",
+        "speaker": "Otto Hilska",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Ember.js",
+        "speaker": "Anssi Kinnunen",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2016-08-20",
+    "special": {
+      "name": "Hack Day",
+      "description": "A one-day hackathon where we hacked together small projects themed around 'location'."
+    }
+  },
+  {
+    "date": "2016-09-21",
+    "host": "Lyyti",
+    "talks": [
+      {
+        "title": "What I talk about when I talk (little) about end user mobile device testing",
+        "speaker": "Joona Lehikoinen",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Scala.js",
+        "speaker": "Otto Chrons",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2016-10-26",
+    "host": "SparkUp",
+    "talks": [
+      {
+        "title": "Visual regression testing",
+        "speaker": "Varya Stepanova",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "End to end testing with Codeception",
+        "speaker": "Henri Kauppinen",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2016-11-23",
+    "host": "Walkbase",
+    "talks": [
+      {
+        "title": "[talk title has been forgotten]",
+        "speaker": "Mathias Fredriksson",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Realities hand-in-hand: User Interaction in Virtual & Augmented Reality experiences",
+        "speaker": "Timo Korkalainen",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2016-12-14",
+    "host": "Taiste",
+    "talks": [
+      {
+        "title": "Extending the Atom Editor",
+        "speaker": "Teemu Pöntelin",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Progressive Web Apps",
+        "speaker": ["Mikko Harju", "Joni Juup"],
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2017-01-25",
+    "host": "Anders",
+    "talks": [
+      {
+        "title": "Data visualization best practices",
+        "speaker": "Juha-Matti Santala",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Creating the fastest website in the world",
+        "speaker": "Sami Suo-Heikki",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2017-02-22",
+    "host": "Vaadin",
+    "talks": [
+      {
+        "title": "The art of optimizing the amount of work not done",
+        "speaker": "Joonas Salovaara",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Lightning talk: Github issue board",
+        "speaker": "Roope Merikukka",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2017-03-29",
+    "host": "Poutapilvi",
+    "talks": [
+      {
+        "title": "SVG",
+        "speaker": "Kari Söderholm",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Guide to Angular2",
+        "speaker": "Jukka Roihuvaara",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2017-04-26",
+    "host": "Wunder",
+    "talks": [
+      {
+        "title": "The Big Bang of JavaScript",
+        "speaker": "Margarita Obraztsova",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Webpack",
+        "speaker": "Aarni Koskela",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2017-05-23",
+    "special": {
+      "name": "Code in the Dark",
+      "description": "Together with Valohai, Reaktor and Hub Turku, we organized <a href='https://medium.com/@turkufrontend/code-in-the-dark-turku-2dc96eca26a4'>a Code in the Dark competition</a> where 7 teams competed against each other to replicate websites from just a screenshot."
+    }
+  },
+  {
+    "date": "2017-05-24",
+    "host": "Sofokus",
+    "talks": [
+      {
+        "title": "Compiling human languages into Javascript and back again",
+        "speaker": "Eemeli Aro",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "A guide to Vue, Node & Reddit's API",
+        "speaker": "Matthew Fontana",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2017-09-27",
+    "host": "Taiste",
+    "talks": [
+      {
+        "title": "Lessons learned working as an in-house designer",
+        "speaker": "Satu Peltola",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Testing React Native",
+        "speaker": "Teemu Tiilikainen",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2017-10-25",
+    "host": "Vincit",
+    "talks": [
+      {
+        "title": "Property-Based Testing",
+        "speaker": "Aki Salmi",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Living Styleguides – Streamline team development projects by building your own Bootstrap. Also known as coded or frontend styleguides.",
+        "speaker": "James Stone",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2017-11-23",
+    "host": "Arado",
+    "talks": [
+      {
+        "title": "From Prototype to App - a Case Study",
+        "speaker": ["Mikko Junnila", "Henrik Lehtonen"],
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Web Design Ruined Accessibility",
+        "speaker": "Otso Lahti",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2017-12-13",
+    "host": "Reaktor",
+    "talks": [
+      {
+        "title": "Web Animations",
+        "speaker": "Margarita Obraztsova",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "The Web of Tomorrow",
+        "speaker": "Mikko Harju",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2018-01-31",
+    "host": "Lyyti",
+    "talks": [
+      {
+        "title": "Vim - or how I learned to stop just using my editor and started communicating with it",
+        "speaker": "Niko Myllynen",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "One does not simply upgrade AngularJS to Angular",
+        "speaker": "Mathias Fredriksson",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2018-02-28",
+    "host": "Sofokus",
+    "talks": [
+      {
+        "title": "State Management with Redux, Beyond the To Do List",
+        "speaker": "Joona Rahko",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Google Firebase for devs avoiding sysops",
+        "speaker": "Pyry Liukas",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2018-03-14",
+    "special": {
+      "name": "Happy Hour",
+      "description": "A brewery tour to Radbrew's brewery in Kaarina to learn about beer brewing and to taste some beers with great community."
+    }
+  },
+  {
+    "date": "2018-03-28",
+    "host": "Anders",
+    "talks": [
+      {
+        "title": "Theming in the era of Web Components and Shadow DOM",
+        "speaker": "Viktor Lukashov",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Tackle everyday problems with Git",
+        "speaker": "Sami Nieminen",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2018-04-18",
+    "host": "Houston Inc",
+    "talks": [
+      {
+        "title": "What I learned when I scraped over 370 000 .fi websites",
+        "speaker": "Joonas Salovaara",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Making accessibility more accessible",
+        "speaker": "Otso Lahti",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2018-05-23",
+    "host": "Vaadin",
+    "talks": [
+      {
+        "title": "Web Application Security: The Weird Parts",
+        "speaker": "Juho Nurminen",
+        "description": null,
+        "url": "https://www.youtube.com/watch?v=uCIuHSHrH9M&t=1s"
+      },
+      {
+        "title": "The D Word of the Front End",
+        "speaker": "Margarita Obraztsova",
+        "description": null,
+        "url": "https://www.youtube.com/watch?v=lH53PU96nX4"
+      }
+    ]
+  },
+  {
+    "date": "2018-10-31",
+    "host": "Walkbase",
+    "talks": [
+      {
+        "title": "When booleans are messing up my UI. Gonna declutter with maybes, unions, and state machines",
+        "speaker": "Richard Van Camp",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "GraphQL",
+        "speaker": "Niko Salminen",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2018-12-12",
+    "host": "Reaktor",
+    "talks": [
+      {
+        "title": "Inspiration, Learning & Experimentation in Codepen",
+        "speaker": "Juha-Matti Santala",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "The Power of Community. Smart and Effective Management of Open Source Projects",
+        "speaker": "Vladimir Kovtun",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2019-01-30",
+    "host": "Sofokus",
+    "talks": [
+      {
+        "title": "React storybook, styleguidist and styled components",
+        "speaker": "James Stone",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Let’s make some forms and think about our existence",
+        "speaker": "Fotis Papadogeorgopoulos",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2019-02-27",
+    "host": "Vincit",
+    "talks": [
+      {
+        "title": "Comfortably typing for programmers",
+        "speaker": "Daniel Clarke",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Introduction to WebGL",
+        "speaker": "Anssi Kinnunen",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2019-03-27",
+    "host": "Anders",
+    "talks": [
+      {
+        "title": "Your tech stack doesn't matter",
+        "speaker": "Ville Manninen",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Best practices for structuring a Vue.js + TypeScript codebase",
+        "speaker": "Nikke Leskelä",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Fast and beautiful images",
+        "speaker": "Doug Sillars",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2019-04-24",
+    "host": "Vaadin",
+    "talks": [
+      {
+        "title": "Strongly Type All the Things",
+        "speaker": "Andy Davies",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Write HTML like it’s 1995 - lessons learned from crafting email templates",
+        "speaker": "Lauri Hynynen",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2019-05-29",
+    "host": "Identio",
+    "talks": [
+      {
+        "title": "ValOS: Inherently Dynamic Web Architecture",
+        "speaker": "Ville Ilkkala",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "http://Webbidevaus.fi CSSNuggets™ 8 kpl",
+        "speaker": ["Antti Mattila", "Riku Rouvila"],
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2019-09-25",
+    "host": "Solita",
+    "talks": [
+      {
+        "title": "Functional Web Apps. - aka Railroad Driven Programming",
+        "speaker": "Aki Salmi",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Static sites and their content management systems",
+        "speaker": "Jere Laine",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2019-10-30",
+    "host": "Arado",
+    "talks": [
+      {
+        "title": "Let's do D3 together",
+        "speaker": "Magdalena Stenius",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Why DevSecOps? Common infosec pitfalls in development",
+        "speaker": "Joonatan Kauppi",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2019-11-27",
+    "host": "Gofore",
+    "talks": [
+      {
+        "title": "CI Pipelines with Azure",
+        "speaker": "Matti Järvinen",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "How Smart TV apps and Set Top Box UIs are made",
+        "speaker": "Dusan Turajlic",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Modernizing Web Layout (and everything that comes with it)",
+        "speaker": "Fotis Papadogeorgopoulos",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2019-12-11",
+    "host": "Reaktor",
+    "talks": [
+      {
+        "title": "No-shit state management",
+        "speaker": "Alex Culliēre",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Planet Centric Design",
+        "speaker": "Heidi Tetri",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2020-01-29",
+    "host": "Click 2 Contract",
+    "talks": [
+      {
+        "title": "Browser as a musical instrument",
+        "speaker": "Ilmari Koskinen",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "So you think you know state management",
+        "speaker": "Farzad Yousefzadeh",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2020-02-26",
+    "host": "Qalmari",
+    "talks": [
+      {
+        "title": "What the Flutter?",
+        "speaker": "Klaus Jokinen",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Web Component - From HTML to Javascript",
+        "speaker": "Tân Bùi",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2021-10-27",
+    "host": "Lyyti",
+    "talks": [
+      {
+        "title": "HATEOAS (Hypermedia as the engine of application state)",
+        "speaker": "Dusan Turajlic",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Web Components: Utilizing the Web Platform",
+        "speaker": "Matias Huhta",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2021-11-24",
+    "host": "Anders",
+    "talks": [
+      {
+        "title": "A New Accessible Hope: Intro to web accessibility",
+        "speaker": "Eyal Eshet",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "[a last minute backup talk, topic has escaped history]",
+        "speaker": "Aarni Koskela",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2022-04-27",
+    "host": "Vincit",
+    "talks": [
+      {
+        "title": "Let's keep our promises – ARIA and keyboard navigation",
+        "speaker": "Eeva-Jonna Panula",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Next.js - Run your backend in your frontend",
+        "speaker": "Konsta Purtsi",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2022-05-25",
+    "host": "Reaktor",
+    "talks": [
+      {
+        "title": "Refactoring Patterns",
+        "speaker": "Dusan Turajlic",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Observability Driven Development",
+        "speaker": "Andy Davies",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2022-08-31",
+    "host": "Mavericks",
+    "talks": [
+      {
+        "title": "Accessibility Quick Wins You Can Implement Today",
+        "speaker": "Daniel Yuschick",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Should you use GraphQL?",
+        "speaker": "Viktor Lukashov",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2022-09-28",
+    "host": "Qalmari",
+    "talks": [
+      {
+        "title": "Reviewing code - live",
+        "speaker": "Petro Silenius",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "The Art of Work Estimation",
+        "speaker": "Teemu Suoranta",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2022-10-26",
+    "host": "MagiCAD",
+    "talks": [
+      {
+        "title": "European Cookie Legislation and You",
+        "speaker": "Jere Laine",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Adapting to sensible constraints: Building a startup with Remix & Supabase",
+        "speaker": "Niko Korvenlaita",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2022-11-30",
+    "host": "Arado",
+    "talks": [
+      {
+        "title": "Let's write a Language Server!",
+        "speaker": "Matias Huhta",
+        "description": null,
+        "url": "https://www.youtube.com/watch?v=otTm4W5VWu4"
+      },
+      {
+        "title": "Everything would be just fine if only there were no other people",
+        "speaker": "Elisa Heikura",
+        "description": null,
+        "url": "https://www.youtube.com/watch?v=a0JQFNBLGSA"
+      }
+    ]
+  },
+  {
+    "date": "2022-12-14",
+    "host": "Gofore",
+    "talks": [
+      {
+        "title": "Make the most of your UI testing",
+        "speaker": "Ossi Hanhinen",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "How to (not) to handle security issues - we are all in this together",
+        "speaker": "Joona Hoikkala",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2023-01-25",
+    "host": "Solita",
+    "talks": [
+      {
+        "title": "The Road to Intl.MessageFormat",
+        "speaker": "Eemeli Aro",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Flutter Stuff",
+        "speaker": "Jukka Palomäki",
+        "description": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2023-02-22",
+    "host": "Taiste",
+    "talks": [
+      {
+        "title": "Better accessibility with a user-centric view",
+        "speaker": "Marianna Österlund",
+        "description": "Web accessibility is much more than regulations and restrictions. It is based on real people with real problems and needs. By understanding all the users everything makes a lot more sense. In her talk Marianna addresses the ‘why’ of accessibility – and a little bit of the ‘how’, too.",
+        "url": null
+      },
+      {
+        "title": "Visual programming and executable models",
+        "speaker": "Farzad Yousefzadeh",
+        "description": "Let's look at the traditional way of making software, the importance of diagramming and ideas to take diagrams to the next level where they can be used as the single source of truth for the software behavior generating rest of the software such as tests, documentation and the runtime.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2023-03-29",
+    "host": "Vaadin",
+    "talks": [
+      {
+        "title": "Refactoring my hobby project with Next.js",
+        "speaker": "Jurkka Lemmetti",
+        "description": "My journey of updating old Ember project to use Next.js v13 framework.",
+        "url": null
+      },
+      {
+        "title": "Quick introduction to Qwik",
+        "speaker": "Juho Vepsäläinen",
+        "description": "Qwik is a contender entering the crowded space of JavaScript frameworks. In this brief talk, you will learn why you should take it seriously and how Qwik is shaking the foundations of web development as we know it.",
+        "url": null
+      }
+    ]
+  }
+]

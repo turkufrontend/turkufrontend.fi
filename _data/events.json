@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2023-01-25",
+    "host": "Solita",
+    "url": "https://meetabit.com/events/turku-3-frontend-january-meetup-with-solita-2023"
+  },
+  {
+    "date": "2023-02-22",
+    "host": "Taiste",
+    "url": "https://meetabit.com/events/turku-3-frontend-february-meetup-with-taiste-2023"
+  },
+  {
+    "date": "2023-03-29",
+    "host": "Vaadin",
+    "url": "https://meetabit.com/events/turku-3-frontend-march-meetup-with-vaadin-2023"
+  },
+  {
+    "date": "2023-04-26",
+    "host": "If",
+    "url": null
+  },
+  {
+    "date": "2023-05-31",
+    "host": "Vincit",
+    "url": null
+  }
+]

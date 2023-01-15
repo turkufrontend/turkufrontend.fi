@@ -1,0 +1,31 @@
+---
+layout: layouts/base.njk
+title: Speaker Hall of Fame
+description: A celebration of all of those who make our events possible
+---
+
+<section id="speakers">
+  <h1>Hall of Fame</h1>
+  <div class="back-home">
+    <a href="/">&lt;&lt; back home</a>
+  </div>
+  <div class="content">
+    <p>
+      Turku &hearts; Frontend meetups would not be anything without our amazing
+      speakers. Over the years, we've had the pleasure to host an amazing cast
+      of
+      {{ speakers.length + 1 }} different speakers.
+    </p>
+    <p>Here are the members of our speaker Hall of Fame.</p>
+    <p class="alert">
+      If you want your picture changed or removed all together, please get in
+      touch juhis@turkufrontend.fi
+    </p>
+  </div>
+  <hr />
+  <div class="gallery">
+    {% for name in speakers %}
+    {{ name | formatHallOfFame | safe }}
+    {% endfor %}
+  </div>
+</section>

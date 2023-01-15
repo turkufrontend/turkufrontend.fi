@@ -1,0 +1,14 @@
+{
+  "name": "turku-frontend-website",
+  "version": "1.0.0",
+  "description": "Website for Turku ❤️ Frontend",
+  "main": "index.njk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juha-Matti Santala <juhamattisantala@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "slugify": "^1.6.5"
+  }
+}

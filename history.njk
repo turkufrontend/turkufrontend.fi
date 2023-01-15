@@ -1,0 +1,54 @@
+---
+layout: layouts/base.njk
+title: Timeline
+description: All of our events from January 2016 onward
+---
+
+<section id="history">
+  <div class="timeline-container">
+    <h1>Timeline</h1>
+    <div class="back-home">
+      <a href="/">&lt;&lt; back home</a>
+    </div>
+    <p class="lead">
+      We have hosted {{ history.length - 3 }} meetups, one Hack Day, one Code in
+      the Dark night and one brewery tour.
+    </p>
+
+    {% for event in history.reverse() %} {% if event.special %}
+    <div class="timeline-event">
+      <div class="timeline-header">
+        <div class="timeline-date">
+          {{ event.date | toLocalDateYear }}
+        </div>
+      </div>
+      <div class="timeline-talks">
+        <p>
+          <strong>{{ event.special.name }}</strong>
+        </p>
+        <p class="timeline-special">{{ event.special.description | safe }}</p>
+      </div>
+    </div>
+    {% else %}
+    <div class="timeline-event">
+      <div class="timeline-header">
+        <div class="timeline-date">
+          {{ event.date | toLocalDateYear }}
+        </div>
+        <div class="timeline-host">
+          {{ event.host | formatSponsorLogoNoLink | safe }}
+        </div>
+      </div>
+      <div class="timeline-talks">
+        <ul>
+          {% for talk in event.talks %}
+          <li>
+            <strong>{{ talk.title }}</strong> by {{ talk.speaker }}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+    {% endif %} {% endfor %}
+  </div>
+</section>

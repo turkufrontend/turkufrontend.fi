@@ -1,0 +1,21 @@
+<section>
+  <h2>Spring 2023</h2>
+  <div class="event-container">
+    <ul id="events">
+      {% for event in events %}
+      <li>
+        {{ event.date | toLocalDate }} @ {% if event.url %}
+        <a href="{{ event.url }}">
+          {{ event.host }}
+        </a>
+        {% else %}
+        {{ event.host | formatHost }}
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div style="text-align: center">
+    <a href="/history">full history</a>
+  </div>
+</section>

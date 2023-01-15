@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Juha-Matti Santala",
+    "title": "Software Developer @ MadBooster",
+    "links": [
+      {
+        "icon": "mastodon",
+        "url": "https://mastodon.world/@hamatti"
+      },
+      {
+        "icon": "website",
+        "url": "https://hamatti.org"
+      },
+      {
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/in/juhamattisantala"
+      }
+    ]
+  },
+  {
+    "name": "Teemu Mäntyharju",
+    "title": "Senior Consultant @ Kipinä Software",
+    "links": [
+      {
+        "icon": "twitter",
+        "url": "https://twitter.com/tee_mu"
+      },
+      {
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/in/teemumantyharju/"
+      }
+    ]
+  },
+  {
+    "name": "Matias Kaskimies",
+    "title": "Developer @ Namia.io",
+    "links": [
+      {
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/in/kaskimies/"
+      }
+    ]
+  },
+  {
+    "name": "Teemu Kuutti",
+    "title": "Software Developer @ Identio",
+    "links": [
+      {
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/in/teemu-kuutti-a2a2b766/"
+      }
+    ]
+  }
+]
