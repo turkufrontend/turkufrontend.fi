@@ -4,11 +4,16 @@
   "description": "Website for Turku ❤️ Frontend",
   "main": "index.njk",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve",
+    "debug": "DEBUG=* npx @11ty/eleventy"
   },
   "author": "Juha-Matti Santala <juhamattisantala@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "slugify": "^1.6.5"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
   }
 }
