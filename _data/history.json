@@ -895,5 +895,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2023-04-26",
+    "host": "If",
+    "talks": [
+      {
+        "title": "Take a mess. Make a mess. Refactor to shape",
+        "speaker": "Aki Salmi",
+        "description": "Ever seen a code that needs modifications, lack tests and you fear touching would break the working software somewhere else? In this talk, we learn a way to take a mess - a working code that does provide value every single day - turn that code into testable, cover it with tests and then to use a counter-intuitive way to refactor that code into something where domain concepts find their own places while making modifications easy. Taking an untested mess is a challenge we face in real life. This talk is based on a series of exercises that can be worked on separately, built into a bigger code challenge. The talk goes through the thinking on how to approach such a challenge. Why is it important to add test cases? Why is it important to make the production code testable, in order to be able to test it? Why test readability is so important? And then - how to make a mess to let the design to find it’s shape. This talk has 3 concepts 1) How to turn hard-to-test code into easy-to-test code 2) How to write a test case (and why) 3) How to find a business abstraction thinking outside-in",
+        "url": null
+      },
+      {
+        "title": "Towards buildless environments through Import Maps",
+        "speaker": "Matias Huhta",
+        "description": "Now that import maps are supported by all major browser vendors, utilizing ES Modules has become a lot better. ES Modules are a modern way of re-using Javascript code in web applications through modular organization of code. Import maps allow us to resolve module specifiers in static and dynamic imports, providing us control over module resolution in our modern web applications. We'll be taking a hands on look at what we can achieve with import maps and how they can provide a buildless, bundleless development and deployment experience.",
+        "url": null
+      }
+    ]
   }
 ]
