@@ -913,5 +913,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2023-05-31",
+    "host": "Vincit",
+    "talks": [
+      {
+        "title": "Keys To An Accessibility Mindset",
+        "speaker": "Daniel Yuschick",
+        "description": "Accessible design is good design. In this talk, we will discover the importance of web accessibility, and highlight how we all benefit from the accessible design choices all around us. Gain an understanding of the four principles of web accessibility, before exploring three keys for applying those principles naturally to your design and development process. This presentation will include experiences of advocating for and leading company initiatives toward accessibility, as well as practical examples demonstrating the before and after of our keys to an accessibility mindset.",
+        "url": "https://danielyuschick.com/assets/slides/keys-to-an-accessibility-mindset-turku.pdf"
+      },
+      {
+        "title": "Frontend Pub Quiz",
+        "speaker": "Teemu Mäntyharju",
+        "description": "Let's have some fun together. How well do you know frontend development and how much have you paid attention during the past 49 events? ",
+        "url": null
+      }
+    ]
   }
 ]
