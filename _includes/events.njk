@@ -1,19 +1,11 @@
 <section>
-  <h2>Spring 2023</h2>
+  <h2>Summer 2023</h2>
   <div class="event-container">
-    <ul id="events">
-      {% for event in events %}
-      <li>
-        {{ event.date | toLocalDate }} @ {% if event.url %}
-        <a href="{{ event.url }}">
-          {{ event.host }}
-        </a>
-        {% else %}
-        {{ event.host | formatHost }}
-        {% endif %}
-      </li>
-      {% endfor %}
-    </ul>
+    <div style="text-align: center">
+      <p>We are on a summer break.</p>
+
+      <p>Meetups continue September 27th 2023.</p>
+    </div>
   </div>
   <div style="text-align: center">
     <a href="{{ '/history' | url }}">full history</a>
