@@ -2,6 +2,7 @@ const filters = require("./_11ty/filters");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("slides");
 
   Object.entries(filters).forEach(([name, callback]) => {
     eleventyConfig.addFilter(name, callback);
