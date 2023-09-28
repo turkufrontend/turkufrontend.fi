@@ -931,5 +931,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2023-09-27",
+    "host": "Loikka",
+    "talks": [
+      {
+        "title": "Use Testing Library for all of your frontend tests",
+        "speaker": "Ari-Pekka Koponen",
+        "description": "Most frontend developer's struggle with writing great frontend tests and finding tools that make writing tests enjoyable. In this talk we see why the Testing Library has become many frontend developers' favorite library for testing UIs and learn how it helps you improve the accessibility of your applications while you write your normal UI tests.",
+        "url": null
+      },
+      {
+        "title": "It's all about images, part 1",
+        "speaker": "Jere Laine",
+        "description": "Welcome to the joyful yet mysterious world of image processing! Images can make or break a website. Join us to learn all the tips, tricks and black magic needed to make your images as presentable and accessible as possible.",
+        "url": null
+      }
+    ]
   }
 ]
