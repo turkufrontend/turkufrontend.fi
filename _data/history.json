@@ -949,5 +949,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2023-10-25",
+    "host": "Sitowise",
+    "talks": [
+      {
+        "title": "Writing Javascript, but with types!",
+        "speaker": "Matias Huhta",
+        "description": "Every once in a while, you stumble upon a codebase that is written in plain old JavaScript, and you remember how unsafe it feels to write code without a type system supporting you. With modern tooling and some JSDoc you can turn a JavaScript project into a type safe one, without compromising on portability or developer experience. And as you delve deeper into the rabbit hole, maybe even unlock some new features. Developers of large projects like Svelte and Remix have already started transitioning to a more frictionless developer experience by embracing Javascript as it is, but by providing valuable typeing support through JSDoc and the TypeScript compiler. In this hands-on talk we'll take a look at the featureset a JSDoc + Javascript development environment provides, and how you can write type safe code without the drawbacks of build systems and transpiling.",
+        "url": null
+      },
+      {
+        "title": "Launch confidently with k6 performance testing",
+        "speaker": "Mattias Nixell",
+        "description": "A brief introduction to k6 performance testing and its simplicity. A couple of \"gotchas\" and how to work around them. Finally, a practical code example from one of Vincit's projects.",
+        "url": null
+      }
+    ]
   }
 ]
