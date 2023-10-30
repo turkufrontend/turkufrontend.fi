@@ -967,5 +967,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2023-11-29",
+    "host": "Fellowmind",
+    "talks": [
+      {
+        "title": "Data fetching & mutations in Next.js 14",
+        "speaker": "Tuomo Kankaanpää",
+        "description": "Data fetching is a core part of any application. Since the introduction of the app router, we now have multiple ways we can fetch and mutate data in our Next.js application. In this talk we will take a look on different ways to handle data fetching & mutations in Next.js 14 application.",
+        "url": null
+      },
+      {
+        "title": "Focusing on focus; styling focus indicators in 2023",
+        "speaker": "Fotis Papadogeorgopoulos",
+        "description": "In this talk, we’ll step through the landscape for styling focus indicators in 2023. We will look at :focus-visible edge cases, styling to follow borders, support for dark and high contrast modes, and finally explore browser standards and a good bit of team communication. Join for some fun examples and bring your questions or focus styling pains 😁",
+        "url": null
+      }
+    ]
   }
 ]
