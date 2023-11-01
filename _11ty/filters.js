@@ -40,7 +40,7 @@ module.exports = {
   },
   formatHallOfFame: function (name) {
     return `<div class="speaker">
-    <img src="/assets/img/speakers/${slugify(name)}.png">
+    <img src="/assets/img/speakers/${slugify(name)}.png" alt="">
     <p>${name}</p>
     </div>`;
   },
