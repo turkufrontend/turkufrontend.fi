@@ -985,5 +985,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2023-12-13",
+    "host": "Reaktor",
+    "talks": [
+      {
+        "title": "Mastering the \"Good Enough\" Technical-Business Equation in Frontend Development: Sketching with Wireframes",
+        "speaker": "Joonas Heinonen",
+        "description": "I'll be talking about the delicate balance between technical excellence and aligning with your organization's business objectives using visualization as the key enabler. Frontend development isn't just about writing code; it's about creating user experiences that drive your business forward. How can you ensure that your frontend work directly contributes to achieving business objectives? We'll explore the role of wireframes as a baseline tool bridging the communication gap between technical teams and business stakeholders. We'll emphasize the importance of collaborative workflows, where business stakeholders, designers, developers, and customers work closely together to refine wireframes and prototypes. At the end of the talk you should be having some thoughts about how you can accelerate the validation of business goals with \"good-enough\" frontend first -approach.",
+        "url": null
+      },
+      {
+        "title": "Lightning talks",
+        "speaker": "Multiple speakers",
+        "description": "A session of 5-minute talks",
+        "url": null
+      }
+    ]
   }
 ]
