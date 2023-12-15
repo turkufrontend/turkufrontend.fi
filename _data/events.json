@@ -1,22 +1,32 @@
 [
   {
-    "date": "2023-09-27",
-    "host": "Loikka",
-    "url": "https://meetabit.com/events/turku-3-frontend-september-meetup-with-loikka-2023"
+    "date": "2024-01-31",
+    "host": "Vaadin",
+    "url": ""
   },
   {
-    "date": "2023-10-25",
-    "host": "Sitowise",
-    "url": "https://meetabit.com/events/turku-3-frontend-october-meetup-with-sitowise-2023"
+    "date": "2024-02-15",
+    "host": "Code in the Dark event at SparkUp",
+    "url": ""
   },
   {
-    "date": "2023-11-29",
-    "host": "Fellowmind",
-    "url": "https://meetabit.com/events/turku-3-frontend-november-meetup-with-fellowmind-2023"
+    "date": "2024-02-28",
+    "host": "TBA",
+    "url": ""
   },
   {
-    "date": "2023-12-13",
-    "host": "Reaktor",
-    "url": "https://meetabit.com/events/turku-3-frontend-december-meetup-with-reaktor-2023"
+    "date": "2024-03-27",
+    "host": "Qalmari",
+    "url": ""
+  },
+  {
+    "date": "2024-04-24",
+    "host": "TBA",
+    "url": ""
+  },
+  {
+    "date": "2024-05-29",
+    "host": "TBA",
+    "url": ""
   }
 ]
