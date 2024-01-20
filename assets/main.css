@@ -439,3 +439,29 @@ a.timeline {
 #history .lead {
   margin-top: 2em;
 }
+
+div.citd {
+  max-width: 80ch;
+  margin: auto;
+}
+
+.citd h1 {
+  font-size: 3em;
+  margin: 0.75em 0;
+}
+
+.citd p {
+  font-size: 1.5em;
+  margin: 0.75em 0;
+}
+
+.citd :is(h2, h3, h4) {
+  margin: 0.75em 0;
+}
+
+img.citd-logo {
+  max-width: 300px;
+  margin: auto;
+  background: black;
+  padding: 1em 4em;
+}
