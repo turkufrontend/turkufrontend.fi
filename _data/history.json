@@ -1003,5 +1003,30 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2024-01-16",
+    "special": {
+      "name": "Student Night with Asteriski and If",
+      "description": "We organized a special student night with students from Asteriski with talks from Juhis and Roosa. Event was sponsored and hosted by If."
+    }
+  },
+  {
+    "date": "2024-01-31",
+    "host": "Vaadin",
+    "talks": [
+      {
+        "title": "Guide to Effective Test Automation (tools and strategies)",
+        "speaker": "Aki Salmi",
+        "description": "In the realm of modern software development, mastering the art of effective automated testing is essential. This talk is designed to empower participants with comprehensive insights and actionable strategies to enhance the stability, speed, and independence of unit tests and introducing a pattern that helps to write system level tests, especially within the context of event-driven microservices.",
+        "url": null
+      },
+      {
+        "title": "Detect commonly undetected accessibility issues",
+        "speaker": "Eyal Eshet",
+        "description": "We’ll go through some of the common accessibility issues that automated tools cannot detect, learn how to detect them and hopefully avoid them in the first place. Special guest: the Swedish Chef :)",
+        "url": null
+      }
+    ]
   }
 ]
