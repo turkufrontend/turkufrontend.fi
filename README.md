@@ -75,4 +75,4 @@ We host regular events in Turku, Finland, to which you can sign up for in [Meeta
 
 We also have [a Slack group](https://turkufrontend.fly.dev/) where you can chat with fellow developers, ask people to join for lunches or other gatherings between the events and get help for tech stuff.
 
-In addition, we have a Mastodon account at [@turkufrontend@mastodo.fi](https://mastodo.fi/@turkufrontend) that you can follow to hear about what is happening.
+In addition, we have a Mastodon account at [@turkufrontend@tivia.social](https://tivia.social/@turkufrontend) that you can follow to hear about what is happening.
