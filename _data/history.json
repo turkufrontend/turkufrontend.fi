@@ -1028,5 +1028,12 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2024-02-15",
+    "special": {
+      "name": "Code in the Dark",
+      "description": "4 teams, 4 challenges, 15 minutes per round. We organized a <a href='/codeinthedark'>Code in the Dark</a> event."
+    }
   }
 ]
