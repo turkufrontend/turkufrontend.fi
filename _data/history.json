@@ -1035,5 +1035,23 @@
       "name": "Code in the Dark",
       "description": "4 teams, 4 challenges, 15 minutes per round. We organized a <a href='/codeinthedark'>Code in the Dark</a> event."
     }
+  },
+  {
+    "date": "2024-02-28",
+    "host": "Vincit",
+    "talks": [
+      {
+        "title": "From Frontend Development to Native Mobile - Two Experiences",
+        "speaker": "Eeva-Jonna Panula & Marianne Sirén",
+        "description": "Eevis and Marianne are both frontend developers who switched to Android development. In this talk, they share their experience, what they’ve learned in the process, and what has been surprising. So come hear their stories and the answer to the question: Are they ever going back to web development?",
+        "url": null
+      },
+      {
+        "title": "Building Better Components: A Journey to a More Resilient Frontend",
+        "speaker": "Daniel Yuschick",
+        "description": "Components are at the core of modern development. However, for as much as they can help empower our work, they can harm and hinder it. Building resilient components requires careful planning and collaboration. And, of course, requires avoiding the common pitfalls of component design.This talk will teach us how to avoid common mistakes in component design. We’ll learn how to build resilient frontends that can build trust across teams and grow with our products.",
+        "url": null
+      }
+    ]
   }
 ]
