@@ -105,6 +105,14 @@ h2 {
   margin: auto;
 }
 
+#sponsors li {
+  list-style-type: none; /* remove bullets */
+}
+
+#sponsors li::before {
+  content: "\200B"; /* add zero-width space */
+}
+
 #sponsors img {
   max-width: 150px;
   width: 100%;
