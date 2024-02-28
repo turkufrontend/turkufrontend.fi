@@ -11,16 +11,14 @@ description: All of our events from January 2016 onward
       <a href="{{ '/' | url }}">&lt;&lt; back home</a>
     </div>
     <p class="lead">
-      We have hosted {{ history.length - 3 }} meetups, one Hack Day, one Code in
-      the Dark night and one brewery tour.
+      We have hosted {{ history.length - 3 }} meetups, one Hack Day, two Code in
+      the Dark nights, one Student Night and one brewery tour.
     </p>
 
     {% for event in history.reverse() %} {% if event.special %}
     <div class="timeline-event">
       <div class="timeline-header">
-        <div class="timeline-date">
-          {{ event.date | toLocalDateYear }}
-        </div>
+        <div class="timeline-date">{{ event.date | toLocalDateYear }}</div>
       </div>
       <div class="timeline-talks">
         <p>
@@ -32,9 +30,7 @@ description: All of our events from January 2016 onward
     {% else %}
     <div class="timeline-event">
       <div class="timeline-header">
-        <div class="timeline-date">
-          {{ event.date | toLocalDateYear }}
-        </div>
+        <div class="timeline-date">{{ event.date | toLocalDateYear }}</div>
         <div class="timeline-host">
           {{ event.host | formatSponsorLogoNoLink | safe }}
         </div>
@@ -42,9 +38,7 @@ description: All of our events from January 2016 onward
       <div class="timeline-talks">
         <ul>
           {% for talk in event.talks %}
-          <li>
-            <strong>{{ talk.title }}</strong> by {{ talk.speaker }}
-          </li>
+          <li><strong>{{ talk.title }}</strong> by {{ talk.speaker }}</li>
           {% endfor %}
         </ul>
       </div>
