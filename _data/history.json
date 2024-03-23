@@ -1053,5 +1053,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2024-03-27",
+    "host": "Qalmari",
+    "talks": [
+      {
+        "title": "Building a one-size-fits-all design system with web components",
+        "speaker": "Matti Haapamäki",
+        "description": "In my first ever talk we'll dive into how and why my team is building a web components based design system. We'll discuss the challenges of working with multiple frontend technologies, diverging needs of stakeholders, and how the design system helps us gain credibility and autonomy to focus on more meaningful problem solving. My goals for the talk are to serve as the first touch point to design systems for frontend engineers and to give helpful pointers on how to (and whether you should) get started.",
+        "url": null
+      },
+      {
+        "title": "Hands-on Hilla - Practical introduction to the Hilla Framework",
+        "speaker": "Sami Ekblad",
+        "description": "We demonstrate Hilla's blend of Java’s backend strength with TypeScript’s frontend benefits for frontend developers. Through a real example of vaadin.com/directory, we look into how to build a web application and Hilla’s architecture and its backend-to-frontend integration into a full-stack application.",
+        "url": null
+      }
+    ]
   }
 ]
