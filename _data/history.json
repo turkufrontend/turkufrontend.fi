@@ -1071,5 +1071,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2024-04-24",
+    "host": "Loikka",
+    "talks": [
+      {
+        "title": "Making Your Own Toy Languages - Why and How?",
+        "speaker": "Juho Friman",
+        "description": "I will be give a brief introduction on how to get started on making your own programming language from scratch, and I hope you find the inspiration to make your own little language. It won't become new Python or Typescript, but I promise that you will learn more about programming and programming languages than ever before if you just take a walk to the wild side. This talk will not give you a complete recipe, but gives you insight on programming language internals on really shallow level. We will not go there where the dragons are. That is your job. Have you ever wondered why in most programming languages variable names can't start with digit but can contain digits? Let's find out and many more interesting things about language internals in digestable manner.",
+        "url": null
+      },
+      {
+        "title": "Stretching the concept of UI/frontend with PALL0",
+        "speaker": "Henrik Terävä",
+        "description": "I'll take you through the fascinating world of PALL0, where frontend design goes beyond the screen into tangible interactions. Imagine a UI where a squeeze replaces a button press, a simple rotation becomes your selection tool and actions can be determined by the physical distance between devices. I'll explore how these dimensions transform the user interface and challenge us to think outside the conventional pixel box. We'll delve into creating interfaces where actions are triggered by physical movement, such as throwing an object to a precise height with certain speed of rotation. I'll discuss how we navigate design when our 'screen' is a mere 64x64 pixels, how statistics are replaced with emotions, and how the PALL0 platform’s sensors redefine user engagement, making every interaction both intuitive and playful. Join me in reimagining the potential of UI as we know it.",
+        "url": null
+      }
+    ]
   }
 ]
