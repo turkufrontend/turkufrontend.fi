@@ -1089,5 +1089,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2024-05-29",
+    "host": "Solita",
+    "talks": [
+      {
+        "title": "Navigating Right-to-Left: Insights into Localising Websites for RTL Languages",
+        "speaker": "Aapo Komppa",
+        "description": "Introduction to issues we had solved and things we noticed when doing a website localised for language read right-to-left. I’ll go through this with the eyes of a software developer but will dip little in UI/UX design. I’ll explore how popular libraries, frameworks and web-development tools handle RTL layout. I will also show how to localise both LTR and RTL languages. I don’t speak any language which uses RTL script so this will be explained based on experience I got while making an Arabic website for a client.",
+        "url": null
+      },
+      {
+        "title": "The Annual Turku ❤️ Frontend Pub Quiz",
+        "speaker": "Teemu Mäntyharju",
+        "description": "Returning after a glorious debut last year, Teemu has put his quiz master hat on and brewed together a new pub quiz to finish the spring with. This time, with rewards!",
+        "url": null
+      }
+    ]
   }
 ]
