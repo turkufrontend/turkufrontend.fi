@@ -1,15 +1,14 @@
 <section>
-  <h2>Spring 2024</h2>
-  <div class="event-container">
-    <ul id="events">
-      {% for event in events %}
-      <li>
-        {{ event.date | toLocalDate }} @ {% if event.url %}
-        <a href="{{ event.url }}"> {{ event.host }} </a>
-        {% else %} {{ event.host | formatHost }} {% endif %}
-      </li>
-      {% endfor %}
-    </ul>
+  <h2>Summer 2024</h2>
+  <div style="max-width: 800px; margin: auto">
+    <img
+      src="/assets/img/summer-break.jpg"
+      alt="Car drifting from highway to a ramp with sign that says 'Summer break'"
+      style="margin: auto"
+    />
+    <p style="text-align: center; font-size: 1.2em; margin: 1em 0">
+      We're on a summer break. Meetups continue Wed 25.9.2024.
+    </p>
   </div>
   <div style="text-align: center">
     <a href="{{ '/history' | url }}">full history</a>
