@@ -1107,5 +1107,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2024-09-25",
+    "host": "Lyyti",
+    "talks": [
+      {
+        "title": "New Era of Sliders via CSS Overflow",
+        "speaker": "Teemu Suoranta",
+        "description": "Sliders are widely used in the web and most prominently in mobile where the screen real-estate is the most limited. The usage of sliders have transformed from auto-playing full-wide hero carousels to more subtle UIs. Mobile performance, touch gestures and accessibility requirements have put more requirements on the libraries we use. I'll demonstrate how we can use CSS overflow:auto and JS enhancements to power-up the new generation of sliders that some notable sites like IKEA is already using. I show the possibilities and limitations of CSS and what kind of native JS APIs browser offers for this kind of slider. I have created a library @evermade/overflow-slider that is powered by these techniques.",
+        "url": null
+      },
+      {
+        "title": "Tailwind all the things!",
+        "speaker": "Aarni Koskela",
+        "description": "... or the steps and tooling to transform an application from Bootstrap to a bespoke Tailwind-based design system without too many hiccups. Warning: talk may contain live demo.",
+        "url": null
+      }
+    ]
   }
 ]
