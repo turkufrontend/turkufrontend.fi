@@ -1125,5 +1125,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2024-10-30",
+    "host": "Taiste",
+    "talks": [
+      {
+        "title": "Browser bugs, feature detection and you: tips for making forward-looking frontends",
+        "speaker": "Fotis Papadogeorgopoulos",
+        "description": "One of the wonderful parts about the web, is that it is constantly evolving. This evolution solves common pain points, leads to less code sent to clients, and supports more performant and ambitious applications. However, this evolution brings pressure on web developers to track changes, and adapt our code to new practices. Browsers adopt features at different rates, so code paths often have to fork based on capabilities. In this talk, we will step through common ways of keeping a code base healthy in this changing environment, such as feature detection, automatic code transpilation and manual User Agent sniffing. We will also look at a way of handling an often-overlooked inverse case; knowing when to stop forking the code paths once a feature is available everywhere, in a sustainable and informed way.",
+        "url": null
+      },
+      {
+        "title": "10 things you didn't know you can do with a linter",
+        "speaker": "Senja Jarva",
+        "description": "Linters (e.g. eslint, stylelint) are common tools in FE development. Usually linters are configured to point out possible error situations related to JavaScript's curiosities (e.g. strict equality vs loose equality with eqeqeq rule), to follow a certain code style (remember the Airbnb config?) or follow a recommended ruleset from a library eslint plugin (e.g. eslint-plugin-react). But, have you seen a linter used to teach how to use a certain library? Or to manage tech debt (or at least make sure the debt does not spread)? How about make sure that the agreed conventions are being followed? In this talk, I will go through the basics of the linter and plugin ecosystem(s), list how we are using linters currently and demonstrate how we could unleash the full potential of using linters to speed up and make FE development easier.",
+        "url": null
+      }
+    ]
   }
 ]
