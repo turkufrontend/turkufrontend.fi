@@ -1143,5 +1143,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2024-11-27",
+    "host": "twoday",
+    "talks": [
+      {
+        "title": "The Internet in Real-Time: Demystifying WebSockets and WebRTC",
+        "speaker": "Sebastian Aarnio",
+        "description": "Real-time communication on the web opens up interactive possibilities beyond just conference calls. In this talk, we'll explore the power of WebSockets and WebRTC, how they work, when to use each, and how they can make your applications responsive and more engaging. You’ll learn how WebRTC's peer-to-peer connections support more than video, along with tips and security considerations. Through a live demo, we'll implement a web app that combines WebRTC and WebSockets, giving an example of combining the two browser-native technologies.",
+        "url": null
+      },
+      {
+        "title": "You might not need a framework",
+        "speaker": "Matias Huhta",
+        "description": "In this live-coding demonstration we'll go through some of the modern API's you can utilize in all evergreen browsers. We'll discuss the pro's and cons of having a lower dependency count in your project and some recipes on making a no-build setup for your next web application. The talk will include implementing most of the features most commonly utilized in popular frameworks / libraries like React and Vue.",
+        "url": null
+      }
+    ]
   }
 ]
