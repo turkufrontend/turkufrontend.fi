@@ -1161,5 +1161,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2024-12-18",
+    "host": "Reaktor",
+    "talks": [
+      {
+        "title": "Get Lost, JavaScript: Just Kidding — But HTML & CSS Do More Now",
+        "speaker": "Daniel Yuschick",
+        "description": "If your head has spun in the last few years trying to keep up with the latest evolutions of HTML and CSS, you’re not alone. Join us as we explore how these foundational technologies are shedding their static stereotypes and embracing dynamic interactivity, blurring the lines traditionally drawn by JavaScript. In this talk, we'll dive into the latest HTML and CSS features that are reshaping UI development. Learn how these features are gradually reducing our reliance on JavaScript in the 'front' of the frontend and moving some accessibility concerns, dynamic positioning, robust animations and more to the browser. Get lost, JavaScript! Just kidding. We still need you, but HTML and CSS do a lot more now.",
+        "url": null
+      },
+      {
+        "title": "pg_render: Rendering HTML in SQL",
+        "speaker": "Matias Kaskimies",
+        "description": "What if you skipped backend and frontend and instead rendered your application in the database? Meet pg_render, a PostgreSQL extension written in Rust and PLpgSQL that generates HTML frontend directly in SQL functions. In this talk, we’ll explore the motivation, design and philosophy of this experimental approach. Through a live demo, we’ll discuss the idea of looking at software development from a data-schema-driven viewpoint, and its implications for traditional frontend-backend workflows. Perfect for anyone curious about pushing the boundaries of databases, software paradigms and crazy ideas.",
+        "url": null
+      }
+    ]
   }
 ]

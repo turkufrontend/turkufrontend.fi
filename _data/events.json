@@ -1,22 +1,27 @@
 [
   {
-    "date": "2024-09-25",
-    "host": "Lyyti",
-    "url": "https://www.meetabit.com/events/turku-3-frontend-september-meetup-with-lyyti-2024"
+    "date": "2025-01-29",
+    "host": "Vaadin",
+    "url": ""
   },
   {
-    "date": "2024-10-30",
-    "host": "Taiste",
-    "url": "https://www.meetabit.com/events/turku-3-frontend-october-meetup-with-taiste-2024"
+    "date": "2025-02-26",
+    "host": "TBA",
+    "url": ""
   },
   {
-    "date": "2024-11-27",
-    "host": "twoday",
-    "url": "https://www.meetabit.com/events/turku-3-frontend-november-meetup-with-twoday-2024"
+    "date": "2025-03-26",
+    "host": "TBA",
+    "url": ""
   },
   {
-    "date": "2024-12-18",
-    "host": "Reaktor",
-    "url": "https://www.meetabit.com/events/turku-3-frontend-december-meetup-with-reaktor-2024"
+    "date": "2025-04-23",
+    "host": "TBA",
+    "url": ""
+  },
+  {
+    "date": "2025-05-28",
+    "host": "TBA",
+    "url": ""
   }
 ]
