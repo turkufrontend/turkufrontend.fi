@@ -1179,5 +1179,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2025-01-29",
+    "host": "Vaadin",
+    "talks": [
+      {
+        "title": "Who needs Web 3 when we can have Web 1.9",
+        "speaker": "Mikko Harju",
+        "description": "We’ll learn ourselves some HTMX, a technology that makes it possible to bring the best parts of handling rendering on the server side but still enabling interactivity beyond full page reloads.",
+        "url": null
+      },
+      {
+        "title": "SolidJS vs React.js - Same same, but different",
+        "speaker": "Kurre Ståhlberg",
+        "description": "During the day I build Gubbe with React.js, at night I build phisherie.com with SolidJS. In this talk I discuss their similarities and differences, as they are very similar in many ways, but have some fundamental differences that have tripped me up many times so far.",
+        "url": null
+      }
+    ]
   }
 ]
