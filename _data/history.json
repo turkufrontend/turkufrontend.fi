@@ -1197,5 +1197,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2025-02-26",
+    "host": "Konttori",
+    "talks": [
+      {
+        "title": "Leveraging CSS variables beyond --color-blue",
+        "speaker": "Teemu Suoranta",
+        "description": "Many developers are familiar with CSS variables but use them in very limited way. CSS variables are not just replacement of the variable system found in SCSS but a whole new approach. I will show you how to get most out of CSS variables for real world projects.",
+        "url": null
+      },
+      {
+        "title": "Implementing TC39 proposal Map.prototype.upsert for SpiderMonkey and V8",
+        "speaker": "Mikhail Barash",
+        "description": "JavaScript is an actively evolving language, and its design is overseen by the Technical Committee TC39 of Ecma International. I'll explain briefly how TC39 works and give a concrete outline of the steps needed to implement a new language feature. The talk is based on our own experience [ https://bldl.github.io/upsert-tutorial/ ] in implementing the Map.prototype.upsert proposal for the Firefox SpiderMonkey and Google V8 engines. I will also explain how to read the ECMA-262 specification, which is a skill necessary for any JavaScript developer who really wants to understand how a certain language feature is supposed to work. The talk is suitable for everyone interested in JavaScript, and especially for those who want to know how to suggest a new language feature and participate in implementing it. Mikhail is a delegate at Ecma International TC39, the standardizing body behind JavaScript. He is a co-chair of the TC39-TG5 Task Group on Experiments in Programming Language Standardization, and a member of Ecma International's Executive Committee. He works at the University of Bergen (Norway), where he leads the language tooling team of Bergen Language Design Laboratory.",
+        "url": null
+      }
+    ]
   }
 ]
