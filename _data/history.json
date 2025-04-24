@@ -1215,5 +1215,30 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2025-03-26",
+    "special": {
+      "name": "Afterwork at John Scott's",
+      "description": "A chill after work at the local pub."
+    }
+  },
+  {
+    "date": "2025-04-23",
+    "host": "Solita",
+    "talks": [
+      {
+        "title": "A front(end) dive into the European Accessibility Act",
+        "speaker": "Eyal Eshet",
+        "description": "The European Accessibility Act (EAA) will be enforceable starting 28.6.2025. It expands accessibility requirements to consumer products and services, including e-commerce, banking, and transportation. Developers have a key role in ensuring services conform with the EAA. Join us for a front-end exploration of the EAA, the products and services it covers, conformance requirements, enforcement, and how you can help.",
+        "url": null
+      },
+      {
+        "title": "Lightning talk extravaganza",
+        "speaker": "Dan Palmer, Lauri Huhta, Aarni Koskela, Mikko Harju and Konsta Purtsi",
+        "description": "Dan Palmer, Lauri Huhta, Aarni Koskela, Mikko Harju and Konsta Purtsi improvised 5-minute lightning talks based on topics suggested by the audience.",
+        "url": null
+      }
+    ]
   }
 ]
