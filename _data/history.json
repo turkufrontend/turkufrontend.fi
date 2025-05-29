@@ -1240,5 +1240,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2025-05-29",
+    "host": "Vincit",
+    "talks": [
+      {
+        "title": "Lift Off! Hand Off! Design Systems Bridging Time And Space (And Species?)",
+        "speaker": "Daniel Yuschick",
+        "description": "What happens when a cat and a dog are trapped in space and forced to work together to defeat aliens and get home? A crash course in collaboration, communication, and the art of the design-to-developer handoff! In this talk, we’ll explore how to bridge the gap between design and development through in the world of design systems. Using the interstellar adventures of our unlikely duo, we’ll tackle real-world challenges like miscommunication, inconsistent implementation, and accessibility gaps. You’ll learn practical strategies for creating clear documentation, leveraging collaborative tools, and fostering a shared language—all while ensuring your design system is accessible and scalable. Whether you’re a designer, developer, or somewhere in between, this talk will equip you with the tools and insights to make your handoff process as smooth as a zero-gravity spacewalk.",
+        "url": null
+      },
+      {
+        "title": "The Annual Turku ❤️ Frontend Pub Quiz",
+        "speaker": "Teemu Mäntyharju",
+        "description": "As is the tradition, we wrap up our spring season with the annual pub quiz. We'll ask the questions, you provide the answers.",
+        "url": null
+      }
+    ]
   }
 ]
