@@ -3,7 +3,7 @@ const slugify = require("slugify");
 module.exports = {
   toLocalDate: function (date) {
     const d = new Date(date);
-    return `${d.getDate()}.${d.getMonth() + 1}`;
+    return `${d.getDate()}.${d.getMonth() + 1}.`;
   },
 
   toLocalDateYear: function (date) {
