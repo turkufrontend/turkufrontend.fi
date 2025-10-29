@@ -1276,5 +1276,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2025-10-29",
+    "host": "Arado",
+    "talks": [
+      {
+        "title": "Getting inline SVG out of your browser bundles",
+        "speaker": "Fotis Papadogeorgopoulos",
+        "description": "In this talk, we look at the current landscape for embedding SVG icons in JS frontends, and especially React components. For the most part, this involves inlining SVG as JS code (SVG-in-JS). We analyse the problem space in order to find the issues that inlining solves, and weigh its costs and benefits. After that, we compare that approach with img[src] and SVG’s native use[href], and where those fit in the problem space. Then we introduce the @svg-use toolchain as a way to make use[href] more ergonomic and competitive with inlining. Finally, we look toward the future, and investigate how future web standards might facilitate these patterns.",
+        "url": null
+      },
+      {
+        "title": "Measuring front-end energy consumption with Firefox Profiler",
+        "speaker": "Janne Kalliola",
+        "description": "Firefox Profiler allows everyone to measure the energy consumption of web browsing with high precision. The tool provides an excellent opportunity for developers to understand and optimise the energy consumption of the sites and applications they are working on. In this session, I’ll explain how the tool can be used to measure energy consumption and bandwidth usage, and how to interpret the results. Further, I’ll speak about different pitfalls that measurements may have and how to avoid them. The session has a live demo of profiling energy consumption of a few websites. After this session, you are able to use Firefox Profiler to analyse front-end performance, assess the energy consumption and use this information to optimise and improve the performance and energy consumption of front-end.",
+        "url": null
+      }
+    ]
   }
 ]
