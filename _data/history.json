@@ -1294,5 +1294,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2025-11-26",
+    "host": "Loikka",
+    "talks": [
+      {
+        "title": "Super Mario Bros Taught Me Everything I Know About UX Design",
+        "speaker": "Teemu Suoranta",
+        "description": "What can a moustached plumber from 1985 teach us about good user experience? Let's see or should I say \"let's-a go!\" Super Mario Bros is a masterclass in intuitive design. It never explains itself, yet everyone knows what to do in seconds. No tooltips, no pop-ups, no onboarding. How does Mario do this? In this talk, we’ll run through Super Mario’s levels as UX lessons: why tutorials are bullshit, how different worlds need distinct feel, how instant feedback keeps users in flow and why repetition builds trust. This talk contains some ageless wisdom for all developers and designers whether you played the original NES game or not.",
+        "url": null
+      },
+      {
+        "title": "The Last Meter Interface: Web Control for Your Homebrew Hardware",
+        "speaker": "Ilia Motornyi",
+        "description": "For frontend developers, the world of DIY electronics is an exciting new frontier. But after you've built your amazing device, you hit a wall: how do you talk to it? Must you learn complex, low-level code just to build a human-friendly interface? The answer is no. This session is about unlocking the potential to control the physical world using the web technologies you already love. We’ll explore how to choose the right connection for your project—whether wired or wireless—and demonstrate the path for you to apply your existing frontend skills.",
+        "url": null
+      }
+    ]
   }
 ]
