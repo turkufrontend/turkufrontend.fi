@@ -473,3 +473,14 @@ img.citd-logo {
   background: black;
   padding: 1em 4em;
 }
+
+.event-announcement {
+  max-width: 60ch;
+  margin: auto;
+  margin-top: 1em;
+  font-size: 1.5em;
+}
+
+.event-announcement p {
+  margin-bottom: 1em;
+}

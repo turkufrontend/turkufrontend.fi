@@ -1312,5 +1312,29 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2025-12-17",
+    "host": "Reaktor",
+    "talks": [
+      {
+        "title": "Building your own Miro or Google Docs with Y.js",
+        "speaker": "Juha Paananen",
+        "description": "Y.js is a CRDT (conflict free replicated datatypes) library for JS/TS and it allows building collaborative applications such as Miro, Figma or Google Docs quite easily. With quite a bit of production experience with Y.js I can totally recommend it and can discuss where to apply it and how - and also where you should consider something else. I'll show you the ropes and demo it in action too, of course.",
+        "url": null
+      },
+      {
+        "title": "The Shopping Dead: An Accessible Web For The Undead",
+        "speaker": "Daniel Yuschick",
+        "description": "Imagine this. You wake up as a zombie and need to integrate back into everyday life. But it’s a tough adjustment to make, being undead, as you need to order groceries and stock up on a fresh supply of brains. However, the web is more dynamic than you remember and visual notifications that are now used to communicate updates, errors, and content changes are difficult to understand. If not impossible. We’ll explore ARIA Live Regions through the eyes of a zombie trying to navigate the modern day web. From creating an account, ordering your favorite snacks, to sending an email, we’ll experience how screen readers understand, or sometimes don’t understand, dynamic content and live region updates. We’ll explore the rules and recommended methods for incorporating live regions to create more inclusive notifications, and ultimately, we’ll find ways to replace live regions all together with more persistent and robust patterns.",
+        "url": null
+      },
+      {
+        "title": "A decade of Turku <3 Frontend",
+        "speaker": "Juha-Matti Santala",
+        "description": "A look at the last 10 years, starting from a Facebook post and ending with 73 meetups, two Code in the Dark nights, a hackathon, a brewery tour and afterworks with 30 partners and 96 speakers.",
+        "url": null
+      }
+    ]
   }
 ]
