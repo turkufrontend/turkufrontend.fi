@@ -1321,7 +1321,7 @@
         "title": "Building your own Miro or Google Docs with Y.js",
         "speaker": "Juha Paananen",
         "description": "Y.js is a CRDT (conflict free replicated datatypes) library for JS/TS and it allows building collaborative applications such as Miro, Figma or Google Docs quite easily. With quite a bit of production experience with Y.js I can totally recommend it and can discuss where to apply it and how - and also where you should consider something else. I'll show you the ropes and demo it in action too, of course.",
-        "url": null
+        "url": "https://www.youtube.com/watch?v=HqxCcbyV7e4"
       },
       {
         "title": "The Shopping Dead: An Accessible Web For The Undead",
