@@ -3,3 +3,4 @@ _site/
 .netlify
 node_modules/*
 .vscode/
+.DS_Store

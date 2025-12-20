@@ -1,5 +1,5 @@
-/* 
-CSS Reset from Josh W. Comeau 
+/*
+CSS Reset from Josh W. Comeau
 https://www.joshwcomeau.com/css/custom-css-reset/
 */
 /*
@@ -483,4 +483,10 @@ img.citd-logo {
 
 .event-announcement p {
   margin-bottom: 1em;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 0.75em;
+  padding-top: 0.5em;
 }
