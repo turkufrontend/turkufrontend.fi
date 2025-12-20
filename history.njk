@@ -38,7 +38,11 @@ description: All of our events from January 2016 onward
       <div class="timeline-talks">
         <ul>
           {% for talk in event.talks %}
-          <li><strong>{{ talk.title }}</strong> by {{ talk.speaker }}</li>
+          {% if talk.url %}
+            <li><a href="{{talk.url}}"><strong>{{ talk.title }}</strong></a> by {{ talk.speaker }}</li>
+          {% else %}
+            <li><strong>{{ talk.title }}</strong> by {{ talk.speaker }}</li>
+          {% endif %}
           {% endfor %}
         </ul>
       </div>
