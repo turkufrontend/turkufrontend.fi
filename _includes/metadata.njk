@@ -1,5 +1,5 @@
-{% set meta_title = "Turku ❤️ Frontend" %} {% set meta_description = "Community
-for frontend developers in Turku, Finland" %}
+{% set meta_title = "Turku ❤️ Frontend" %} 
+{% set meta_description = "Community for frontend developers in Turku, Finland" %}
 
 <meta name="author" content="Turku ❤️ Frontend" />
 <meta
@@ -12,6 +12,6 @@ for frontend developers in Turku, Finland" %}
 <meta property="og:description" content="{{description or meta_description}}" />
 <meta property="og:url" content="https://turkufrontend.fi" />
 <meta property="og:locale" content="en-US" />
-<meta property="og:image" content="/assets/img/share-banner.png" />
+<meta property="og:image" content="{{ featured_image or '/assets/img/share-banner.png'}}" />
 
 <link rel="me" href="https://mastodo.fi/@turkufrontend" />

@@ -490,3 +490,22 @@ figcaption {
   font-size: 0.75em;
   padding-top: 0.5em;
 }
+
+.single-page {
+  font-size: 1.5em;
+  padding: 1em;
+  max-width: 80ch;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1em;
+  margin: auto;
+
+  a {
+    font-weight: 700;
+  }
+
+  h2 {
+    font-size: 1.25em;
+    font-weight: 600;
+  }
+}
