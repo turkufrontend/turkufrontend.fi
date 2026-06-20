@@ -1,0 +1,15 @@
+<section id="other-communities">
+  <h2>Other local communities</h2>
+  <div class="introduction">
+  <p>We are not the only tech community in Turku area. Here are our friends.</p>
+  </div>
+  <ul id="communities">
+    {% for community in communities %}
+    <li>
+    <a href="{{community.url}}">
+      <img src="/assets/img/communities/{{community.name | slugify}}.webp" alt="{{community.name}}" />
+    </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

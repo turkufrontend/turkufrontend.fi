@@ -509,3 +509,21 @@ figcaption {
     font-weight: 600;
   }
 }
+
+#other-communities {
+  p {
+    text-align: center;
+  }
+}
+#communities {
+  list-style-type: "";
+  max-width: 100ch;
+  flex-wrap: wrap;
+  margin: auto;
+  display: flex;
+  gap: 1em;
+
+  img {
+    max-width: 100px;
+  }
+}
