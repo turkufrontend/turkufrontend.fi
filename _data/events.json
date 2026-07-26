@@ -1,8 +1,9 @@
 [
   {
     "date": "2026-08-08",
-    "host": "HTML Day at TBD",
-    "url": "/html-day-2026"
+    "host": "HTML Day",
+    "url": "/html-day-2026",
+    "cancelled": true
   },
   {
     "date": "2026-09-23",
