@@ -5,9 +5,16 @@
       {% for event in events %}
 
       <li>
+        {% if event.cancelled %} 
+        <s>
+          {{ event.date | toLocalDate }} @ 
+          {{ event.host }} 
+        </s> <em>(Cancelled)</em>
+        {% else %}
         {{ event.date | toLocalDate }} @ {% if event.url %}
         <a href="{{ event.url }}"> {{ event.host }} </a>
         {% else %} {{ event.host | formatHost }} {% endif %}
+      {% endif %}
       </li>
 
       {% endfor %}
