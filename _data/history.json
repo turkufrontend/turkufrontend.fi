@@ -1336,5 +1336,23 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "host": "Twoday",
+    "talks": [
+      {
+        "title": "Accessibility Adventures - The Lost Secrets of Forced Colors Mode",
+        "speaker": "Daniel Yuschick",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Heading Nowhere: The Rise and Fall of the Document Outline Algorithm",
+        "speaker": "Rolf Smeds",
+        "description": "The quixotic tale of the well-intentioned but ill-fated HTML Document Outline Algorithm, and a ragtag bunch of associated elements, that were supposed to liberate us from the tyranny of manually crafting heading hierarchies, wrapping up with an epilogue about a future half-assed solution.",
+        "url": null
+      }
+    ]
   }
 ]
